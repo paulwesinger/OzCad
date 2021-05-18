@@ -1,0 +1,18 @@
+-----------------------
+Klassen Ablaufdiagramme
+-----------------------
+
+class TextEdit
+    -> Child von Base2D
+    ->Argumente: Grösse, Position, Farbe für Label, Farbe für TextRender, Cursor positionierung zeichenweise in texteditfenster
+    ->TextRender klasse für Textedit
+    ->TextRender klasse für Label
+    ->Eingabe mit ok oder CR
+    ->abruch mit mit ESC
+    ->membervar für alten text, member var für neuen text. wird bei ok zum alten text.
+
+    ->child class für Alphanummeric  ????
+
+
+
+
