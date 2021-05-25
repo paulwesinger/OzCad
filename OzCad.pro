@@ -96,6 +96,7 @@ DISTFILES += \
     config/SphereWorldTextures.cfg \
     config/cube2textures.cfg \
     config/cubetextures.cfg \
+    fonts/DroidSans.ttf \
     icons/256x256/vlc.png \
     icons/QtProject-qtcreator.png \
     icons/chromium-browser.png \
